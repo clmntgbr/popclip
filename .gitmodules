@@ -1,0 +1,27 @@
+[submodule "popclip-api"]
+	path = popclip-api
+	url = git@github.com:clmntgbr/popclip-api.git
+[submodule "popclip-sound-extractor"]
+	path = popclip-sound-extractor
+	url = git@github.com:clmntgbr/popclip-sound-extractor.git
+[submodule "popclip-video-downloader"]
+	path = popclip-video-downloader
+	url = git@github.com:clmntgbr/popclip-video-downloader.git
+[submodule "popclip-protobuf"]
+	path = popclip-protobuf
+	url = git@github.com:clmntgbr/popclip-protobuf.git
+[submodule "popclip-subtitle-generator"]
+	path = popclip-subtitle-generator
+	url = git@github.com:clmntgbr/popclip-subtitle-generator.git
+[submodule "popclip-subtitle-merger"]
+	path = popclip-subtitle-merger
+	url = git@github.com:clmntgbr/popclip-subtitle-merger.git
+[submodule "popclip-subtitle-transformer"]
+	path = popclip-subtitle-transformer
+	url = git@github.com:clmntgbr/popclip-subtitle-transformer.git
+[submodule "popclip-subtitle-incrustator"]
+	path = popclip-subtitle-incrustator
+	url = git@github.com:clmntgbr/popclip-subtitle-incrustator.git
+[submodule "popclip-video-formatter"]
+	path = popclip-video-formatter
+	url = git@github.com:clmntgbr/popclip-video-formatter.git
